@@ -1,0 +1,1 @@
+This is Python project which is simple slot game system.
